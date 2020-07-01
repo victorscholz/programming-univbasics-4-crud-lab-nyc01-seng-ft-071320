@@ -2,7 +2,7 @@ def create_an_empty_array
   []
 end
 
-def barista
+def create_an_array
   barista = ["coffee", "grinder", "milk", "cup"]
 end
 
