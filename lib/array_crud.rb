@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["coffee", "grinder", "milk", "cup"]
+  arr = ["coffee", "grinder", "milk", "cup"]
 end
 
 def add_element_to_end_of_array(array, element)
-  create_an_array << "pitcher"
+  arr << "pitcher"
 end
 
 def add_element_to_start_of_array(array, element)
